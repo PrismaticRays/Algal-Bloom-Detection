@@ -6,6 +6,7 @@ import os
 
 import warnings
 
+print("Test")
 startTime = time.time()
 
 np.seterr(all='warn')
